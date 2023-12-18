@@ -2,10 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-    padding: 2rem;
+#root{
+    padding: 1rem;
     display: flex;
     justify-content: center;
     width: 100dvw;
     height: 100dvh;
+    max-width: 100dvw;
+    max-height: 100dvh;
+    background-color: #84f7e7 ;
+}
+
+#header {
+    background-image: url(https://codilime.com/static/6bbe3920fd2e53f18ec938e88dd129f5/header-software-development-best-practices.png);
+    background-size: contain;
 }
