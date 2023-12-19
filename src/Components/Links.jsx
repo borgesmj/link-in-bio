@@ -11,12 +11,12 @@ const Links = () => {
             link: 'https://github.com/borgesmj'
         },
         {
-            name: 'Tienda Personal',
+            name: 'Sweet Bites (galletas, panes de jamon)',
             link: 'https://sweet-bites.co/'
         },
         {
-            name: 'Codepen',
-            link: 'https://codepen.io/borgesmj'
+            name: 'Envia Remesas a Venezuela 🇨🇴 ➡️ 🇻🇪',
+            link: 'https://borgesmj.github.io/remesas/'
         },
         {
             name: 'Linkedin',
